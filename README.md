@@ -139,3 +139,4 @@ letsencrypt::certonly { 'foo':
 6. Submit a pull request
 
 We politely request (demand) tests for all new features. Pull requests that contain new features without a test will not be considered. If you need help, just ask!
+
